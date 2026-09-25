@@ -14,6 +14,7 @@ Site estático em HTML, CSS e JavaScript, sem dependências de build. A página 
 - **Cores e fontes:** as variáveis no início de `dist/styles.css` controlam a identidade visual.
 - **Link do Google:** o link atual abre diretamente a área de avaliações a partir da URL fornecida. Confirme o destino final no navegador antes de divulgar.
 - **Headline e serviços:** a abertura destaca avaliação neuropsicológica e os cards mantêm as quatro áreas já apresentadas no briefing. Confirme com Maria Luíza os serviços oferecidos atualmente antes de divulgar.
+- **Tom de voz:** os textos visíveis são escritos como uma conversa de Maria Luíza com a pessoa visitante, em primeira pessoa. As mensagens preenchidas nos links do WhatsApp estão na voz de quem envia a mensagem.
 - **Dúvidas frequentes:** valores e convênios são direcionados para consulta pelo WhatsApp; a página não afirma preços nem cobertura. Confirme o processo de avaliação, a participação dos responsáveis e os títulos acadêmicos antes da versão definitiva.
 
 ## Confirmar com Maria Luíza antes da publicação aberta
